@@ -1,4 +1,4 @@
-package com.game.controller;
+package com.game.model;
 
 import com.game.entity.Profession;
 import com.game.entity.Race;
